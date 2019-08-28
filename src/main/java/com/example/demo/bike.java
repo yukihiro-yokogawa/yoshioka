@@ -9,7 +9,7 @@ public class bike {
 	int money = 150000;
 
 	public void run() {
-		System.out.println("ロードバイクをこぐ吉岡かっこいい");
+		System.out.println("自転車をあああ吉岡かっこいい");
 	}
 	
 	}
